@@ -1,0 +1,17 @@
+{
+  "files": {
+    "example.zip": {
+      "size": 835625268,
+      "mtime": 1762060970.6114893,
+      "sha256": null,
+      "message_id": null,
+      "file_id": null,
+      "user_message_id": 63,
+      "via": "user",
+      "status": "empty",
+      "sig": "835625268:1762060970:",
+      "uploaded_at": "2025-11-02T01:15:20"
+    }
+  },
+  "last_backup_iso": null
+}

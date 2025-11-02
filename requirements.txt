@@ -1,0 +1,9 @@
+requests
+requests-toolbelt
+watchdog
+pytelegrambotapi
+pyrogram
+tgcrypto
+cryptography
+plyer
+zstandard
