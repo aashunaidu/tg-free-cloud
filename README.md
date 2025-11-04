@@ -32,7 +32,7 @@ You can add more folders from **GUI → Add Sync Folder…**
 ## 🏗 Project Structure
 
 ```
-tgcloud_modular/
+tg-free-cloud/
 │
 ├── MyCloudData/                  # <— Default sync root (watched on startup)
 │
